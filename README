@@ -1,0 +1,5 @@
+Projet lait
+python3 -m venv venv
+venv/Scripts/activate
+pip install django
+python manage.py runserver
